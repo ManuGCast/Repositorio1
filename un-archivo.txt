@@ -1,2 +1,12 @@
 Archivo v1
 <h1>hola<h1>
+
+Archivo v2
+<h1>¡Hola!<h1>
+<p>Me llamo Manuel</p>
+
+Archivo v3
+<h1>¡Hola!<h1>
+<p>Me llamo Manuel</p>
+
+Aqui empieza la clase #3 de Intro a la web :)
